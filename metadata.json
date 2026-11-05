@@ -1,0 +1,8 @@
+{
+  "name": "Aerial Defence - Decision Support",
+  "description": "A simulated, defensive-only command center dashboard for AI-driven target prioritization in missile defense systems, featuring human-in-the-loop verification and explainable AI logic.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
